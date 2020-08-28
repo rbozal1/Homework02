@@ -1,7 +1,6 @@
-# Homework01
+# Homework02: Responsive Portfolio
 
-I created this website as homework for my bootcamp at John Hopkin's University
-
+I created this website as homework for my coding bootcamp at John Hopkin's University
 
 Responsive Portfolio
 I used bootstrap grip layout
