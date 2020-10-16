@@ -10,9 +10,13 @@ body {
     margin-bottom: 0px;
     background-attachment: fixed;
     background-size: cover;
-    position:center; 
-    
+    float:center;
 }
+    .card{
+      float: right;
+    }
+    
+
 
 footer {
     background-color: rgb(231, 227, 227);
@@ -23,12 +27,13 @@ footer {
 .container{
     height:100%;
     clear: both;
-    position:center;
+    width: auto;
 }
 
 p{
     margin-top: 0;
     margin-bottom: 1rem; 
+    font-family: Georgia, Times, "Times New Roman", serif;
 }
 
 p:last-child {
