@@ -16,14 +16,19 @@ body {
 
 footer {
     background-color: rgb(231, 227, 227);
-    margin-top: 200px;
+    margin-top: 100px;
     padding:20px
 }
 
-.container-fluid {
+.container{
     height:100%;
-    margin-top: 100px;
     clear: both;
+    position:center;
+}
+
+p{
+    margin-top: 0;
+    margin-bottom: 1rem; 
 }
 
 p:last-child {
@@ -31,3 +36,8 @@ p:last-child {
     font-family: Georgia, Times, "Times New Roman", serif;
     
   }
+
+  a:hover {
+    background-color: lightblue;
+  }
+
